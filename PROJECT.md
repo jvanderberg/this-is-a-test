@@ -7,5 +7,5 @@ Goals:
 - List nearby stops and the routes that serve them.
 - Work at phone widths (360px and 390px) and follow the system light/dark scheme.
 
-Data: static GTFS-derived JSON in data/ (source URLs and retrieval dates in data/SOURCES.md).
+Data: static JSON in public/data/ (served with the site) (source URLs and retrieval dates in data/SOURCES.md).
 Status: L station data (18 platforms, 7 stations) in place. Bus stops and live arrivals are not yet included; see data/SOURCES.md.

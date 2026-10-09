@@ -8,7 +8,7 @@
   (a box around Oak Park), giving 18 platform rows across Austin, Central,
   Forest Park, Harlem, Harlem/Lake, Oak Park and Ridgeland stations.
 - Kept fields: stop_id, direction, stop name, station, map_id, ADA flag,
-  line flags, lat/lon. Output: data/cta_l_stops_oak_park.json
+  line flags, lat/lon. Output: public/data/cta_l_stops_oak_park.json (Vite publishes only public/, so the site serves it from there)
 
 ## Not yet included
 - CTA bus stops: the CTA GTFS zip (transitchicago.com) is over the 25 MiB download limit.
