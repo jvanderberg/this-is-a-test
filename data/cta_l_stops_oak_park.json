@@ -1,0 +1,236 @@
+[
+ {
+  "stop_id": "30002",
+  "direction": "W",
+  "name": "Austin (Forest Pk-bound)",
+  "station": "Austin",
+  "map_id": "40010",
+  "ada": false,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.870851,
+  "lon": -87.776812
+ },
+ {
+  "stop_id": "30001",
+  "direction": "E",
+  "name": "Austin (O'Hare-bound)",
+  "station": "Austin",
+  "map_id": "40010",
+  "ada": false,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.870851,
+  "lon": -87.776812
+ },
+ {
+  "stop_id": "30243",
+  "direction": "E",
+  "name": "Austin (63rd-bound)",
+  "station": "Austin",
+  "map_id": "41260",
+  "ada": false,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.887293,
+  "lon": -87.774135
+ },
+ {
+  "stop_id": "30244",
+  "direction": "W",
+  "name": "Austin (Harlem-bound)",
+  "station": "Austin",
+  "map_id": "41260",
+  "ada": false,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.887293,
+  "lon": -87.774135
+ },
+ {
+  "stop_id": "30054",
+  "direction": "E",
+  "name": "Central (63rd-bound)",
+  "station": "Central",
+  "map_id": "40280",
+  "ada": true,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.887389,
+  "lon": -87.76565
+ },
+ {
+  "stop_id": "30055",
+  "direction": "W",
+  "name": "Central (Harlem-bound)",
+  "station": "Central",
+  "map_id": "40280",
+  "ada": true,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.887389,
+  "lon": -87.76565
+ },
+ {
+  "stop_id": "30077",
+  "direction": "W",
+  "name": "Forest Park (Terminal Arrival)",
+  "station": "Forest Park",
+  "map_id": "40390",
+  "ada": true,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.874257,
+  "lon": -87.817318
+ },
+ {
+  "stop_id": "30076",
+  "direction": "E",
+  "name": "Forest Park (O'Hare-bound)",
+  "station": "Forest Park",
+  "map_id": "40390",
+  "ada": true,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.874257,
+  "lon": -87.817318
+ },
+ {
+  "stop_id": "30190",
+  "direction": "W",
+  "name": "Harlem (Forest Pk Branch) (Terminal arrival)",
+  "station": "Harlem",
+  "map_id": "40980",
+  "ada": false,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.87349,
+  "lon": -87.806961
+ },
+ {
+  "stop_id": "30189",
+  "direction": "E",
+  "name": "Harlem (Forest Pk Branch) (O'Hare-bound)",
+  "station": "Harlem",
+  "map_id": "40980",
+  "ada": false,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.87349,
+  "lon": -87.806961
+ },
+ {
+  "stop_id": "30004",
+  "direction": "W",
+  "name": "Harlem (Terminal arrival)",
+  "station": "Harlem/Lake",
+  "map_id": "40020",
+  "ada": true,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.886848,
+  "lon": -87.803176
+ },
+ {
+  "stop_id": "30003",
+  "direction": "E",
+  "name": "Harlem (63rd-bound)",
+  "station": "Harlem/Lake",
+  "map_id": "40020",
+  "ada": true,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.886848,
+  "lon": -87.803176
+ },
+ {
+  "stop_id": "30263",
+  "direction": "E",
+  "name": "Oak Park (63rd-bound)",
+  "station": "Oak Park",
+  "map_id": "41350",
+  "ada": false,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.886988,
+  "lon": -87.793783
+ },
+ {
+  "stop_id": "30034",
+  "direction": "E",
+  "name": "Oak Park (O'Hare-bound)",
+  "station": "Oak Park",
+  "map_id": "40180",
+  "ada": false,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.872108,
+  "lon": -87.791602
+ },
+ {
+  "stop_id": "30035",
+  "direction": "W",
+  "name": "Oak Park (Forest Pk-bound)",
+  "station": "Oak Park",
+  "map_id": "40180",
+  "ada": false,
+  "lines": [
+   "blue"
+  ],
+  "lat": 41.872108,
+  "lon": -87.791602
+ },
+ {
+  "stop_id": "30264",
+  "direction": "W",
+  "name": "Oak Park (Harlem-bound)",
+  "station": "Oak Park",
+  "map_id": "41350",
+  "ada": false,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.886988,
+  "lon": -87.793783
+ },
+ {
+  "stop_id": "30120",
+  "direction": "W",
+  "name": "Ridgeland (Harlem-bound)",
+  "station": "Ridgeland",
+  "map_id": "40610",
+  "ada": false,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.887159,
+  "lon": -87.783661
+ },
+ {
+  "stop_id": "30119",
+  "direction": "E",
+  "name": "Ridgeland (63rd-bound)",
+  "station": "Ridgeland",
+  "map_id": "40610",
+  "ada": false,
+  "lines": [
+   "g"
+  ],
+  "lat": 41.887159,
+  "lon": -87.783661
+ }
+]
