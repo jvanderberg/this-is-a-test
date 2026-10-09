@@ -14,3 +14,7 @@
 - CTA bus stops: the CTA GTFS zip (transitchicago.com) is over the 25 MiB download limit.
 - Pace bus GTFS: the URL tried (pacebus.com/gtfs/google_transit.zip) returned 404.
 - Live arrivals: need a CTA Train Tracker API key, not added yet.
+
+## Coverage note
+The bounding box is a rough rectangle, so it also catches stations outside Oak Park
+(Austin is in Chicago; Harlem/Lake and Austin sit on the city edge). Tighten the filter if strict Oak Park-only is wanted.
